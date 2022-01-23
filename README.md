@@ -9,9 +9,11 @@ rbenv install 2.6.5
 ```
 gem install bundler:2.3.5
 ```
+
 3. Bundle Install:
 ```
 bundle install
+```
 
 4. Start Project:
 ```
